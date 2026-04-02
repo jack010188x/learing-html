@@ -11,3 +11,21 @@ fg nfg
  fgn fgn 
  fgn fgn 
  fgn fgn fg
+DFBDFB
+DFB
+DFB
+
+DFB
+DF
+B
+DFB
+D
+FB
+DFB
+DFB
+DF
+B
+DFB
+DF
+B
+DFB
